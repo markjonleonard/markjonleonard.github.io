@@ -1,0 +1,18 @@
+<!--
+  Paste into the weakspeak.blogspot.com theme, immediately after <head>:
+  Blogger > Theme > (arrow next to Customize) > Edit HTML.
+
+  Sends every old URL to its new home:
+    /2009/02/birminghams-lost-apostrophes.html  ->  /blog/birminghams-lost-apostrophes/
+    anything else (home, archives, labels)      ->  /blog/
+  Works for the mobile ?m=1 variants too. The CDATA wrapper keeps Blogger's
+  XML theme parser happy.
+-->
+<script>//<![CDATA[
+(function () {
+  var base = "https://markjonleonard.github.io";
+  var m = location.pathname.match(/^\/\d{4}\/\d{2}\/([^\/]+)\.html$/);
+  location.replace(base + (m ? "/blog/" + m[1] + "/" : "/blog/"));
+})();
+//]]></script>
+<noscript><meta http-equiv="refresh" content="0; url=https://markjonleonard.github.io/blog/"/></noscript>

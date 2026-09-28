@@ -15,7 +15,7 @@ A more interesting question arises. (More interesting to me, at least.) What if 
 
 <small>Perhaps you think I am rambling? Let me first explain that the word **interested** has at least two distinct meanings: 1. feeling curiosity or sympathy. 2. having self-interest. The two words above are opposites of the word **interested**. But do they mean the same thing?</small>
 
-Here are the relevant definitions from the [OED](http://dictionary.oed.com/):
+Here are the relevant definitions from the [OED](https://web.archive.org/web/20090212200706/http://dictionary.oed.com/):
 
 > **uninterested, ppl. a.**
 >
@@ -40,15 +40,15 @@ In [Fowler's Modern English Usage](http://en.wikipedia.org/wiki/Fowler%27s_Moder
 
 > My personal use and recommendation is to restrict disinterested to its sense of impartial, at any rate for the present.
 
-[The Elements of Style (4th Edition)](http://www.scribd.com/doc/2629370/Writing-The-Elements-Of-Style-Strunk-White-4Th-Edition):
+[The Elements of Style (4th Edition)](https://web.archive.org/web/20090201180656/http://www.scribd.com/doc/2629370/Writing-The-Elements-Of-Style-Strunk-White-4Th-Edition):
 
 > ***Disinterested.*** Means "impartial." Do not confuse it with *uninterested*, which means "not interested in."
 
-[The BBC News Style Guide](http://www.bbctraining.com/pdfs/newsStyleGuide.pdf):
+[The BBC News Style Guide](https://web.archive.org/web/20090205102514/http://www.bbctraining.com/pdfs/newsStyleGuide.pdf):
 
 > **Disinterested** means impartial; **uninterested** means not interested in.
 
-[The Times Online Style Guide](http://www.timesonline.co.uk/tol/tools_and_services/specials/style_guide/article986722.ece):
+[The Times Online Style Guide](https://web.archive.org/web/20080726132941/http://www.timesonline.co.uk/tol/tools_and_services/specials/style_guide/article986722.ece):
 
 > **disinterested** means impartial, unbiased (noun disinterest); never confuse with **uninterested**, which means having a lack of interest
 

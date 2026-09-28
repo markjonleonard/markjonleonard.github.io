@@ -9,7 +9,7 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2006/07/past-has-passed.html"
 +++
 
-I was unable to listen to the entirety of this evening's broadcast of [Just a Minute](http://www.geocities.com/deanbedford/tran.html)[^1], as I was instructed to make an emergency stop for a bottle of chilled white wine at Tesco Express. Needs must.
+I was unable to listen to the entirety of this evening's broadcast of [Just a Minute](https://web.archive.org/web/20060304033448/http://www.geocities.com/deanbedford/tran.html)[^1], as I was instructed to make an emergency stop for a bottle of chilled white wine at Tesco Express. Needs must.
 
 At one point, if I recall correctly, Paul Merton was challenged for repetition in the phrase "It's past half past twelve". I found myself urging him most fervently to objurgate the denigrator.
 

@@ -13,7 +13,7 @@ On the [10th of February](/blog/birminghams-lost-apostrophes/) I joked that Birm
 
 Now presumably a perfectly adequate sign was intentionally removed as part of this insidious plan. Surely such a replacement runs counter to Councillor Mullaney's stated aims of consistency (<small>certainly their [website](http://www.bch.org.uk/) makes use of apostrophes</small>) and avoiding unnecessary cost.
 
-As I'm sure you are aware [Wakefield Council](http://www.telegraph.co.uk/news/newstopics/howaboutthat/4602491/Second-council-bans-apostrophes-in-street-signs.html) has announced a similar axing of apostrophes in road signs, again citing unspecified problems with interoperability of computer systems.
+As I'm sure you are aware [Wakefield Council](https://web.archive.org/web/20090215181149/http://www.telegraph.co.uk/news/newstopics/howaboutthat/4602491/Second-council-bans-apostrophes-in-street-signs.html) has announced a similar axing of apostrophes in road signs, again citing unspecified problems with interoperability of computer systems.
 
 Does this sound reasonable to you? We know that such punctuation is not an issue for GPS navigation systems or Ordnance Survey (<small>or indeed [Google](http://maps.google.co.uk/maps?q=St+Pauls+Square,+Birmingham), who appear to have updated their data accordingly</small>). Is a council likely to maintain its own database for storing road names? Even if they did, surely they can transform the text on export? What kind of non-standard, unmaintainable, poorly designed systems are they using anyway?
 
