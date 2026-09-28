@@ -19,6 +19,6 @@ Initially I assumed this to be an Americanism. It follows a certain elliptical p
 
 This impression has faded somewhat and now I find it difficult to parse at all. The expression "is for choice" is not defined in any of the books or articles that use it. It doesn't appear to be in common use and therefore isn't found in online dictionaries. I would love to know who coined this and what they were thinking.
 
-Googling did lead me to an amusing [rant](https://web.archive.org/web/20090713230148/http://www.chesscentral.com/Chess_Writing_Style_a/205.htm) written by [Steve Lopez](http://www.chessbase.com/newsdetail.asp?newsid=96).
+Googling did lead me to an amusing [rant](https://web.archive.org/web/20090713230148/http://www.chesscentral.com/Chess_Writing_Style_a/205.htm#:~:text=One%20second%20you're%20replaying,Black%20is%20for%20predestination) written by [Steve Lopez](http://www.chessbase.com/newsdetail.asp?newsid=96).
 
 > One second you're replaying a chess game, the next second you're reading a philisophical debate. Are we to infer that if White is for choice, then Black is for predestination?
