@@ -19,7 +19,7 @@ Does this sound reasonable to you? We know that such punctuation is not an issue
 
 Note to self: if I ever have the opportunity to name a private road I must make it
 
-> X'); drop database;--
+> X'); drop table roads;--
 
 Is Birmingham's drive to update <small>(modernise?)</small> their public signs saving or costing their constituents money? Is there a genuine problem that needs to be resolved, and is this the most efficient solution to it? Has the amount of mail on the subject processed by council employees actually decreased (as intended)? Will Mullaney be re-elected?!
 

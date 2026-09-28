@@ -9,4 +9,4 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2005/10/needs-no-introduction.html"
 +++
 
-If something "needs no introduction", then the use of that phrase is redundant. If it were true, would I need to told?
+If something "needs no introduction", then the use of that phrase is redundant. If it were true, would I need to be told?

@@ -11,4 +11,6 @@ blogger_url = "https://weakspeak.blogspot.com/2007/04/jeremy-hardy-caused-me-to-
 
 [Jeremy Hardy](http://www.bbc.co.uk/radio4/comedy/jeremyhardy.shtml) caused me to laugh out loud, and not for the first time. I was listening to what was effectively a monologue about death, and the public's attitude towards it.
 
-"People say things like 'I wish I was dead'. That's a terrible thing to say. It should be 'I wish I *were* dead'. Conditional tense."
+"People say things like 'I wish I was dead'. That's a terrible thing to say. It should be 'I wish I *were* dead'. Conditional tense."[^1]
+
+[^1]: Strictly, *were* here is the subjunctive mood rather than a conditional tense, but the joke survives the correction. Jeremy Hardy died in 2019. (Footnote added Sep 2026.)

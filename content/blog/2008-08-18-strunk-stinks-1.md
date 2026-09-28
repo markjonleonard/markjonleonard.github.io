@@ -11,7 +11,7 @@ blogger_url = "https://weakspeak.blogspot.com/2008/08/strunk-stinks-1.html"
 
 I do not own a copy of Strunk and White's [The Elements of Style](http://en.wikipedia.org/wiki/The_Elements_of_Style). (Why should I, when I have [Fowler's](http://en.wikipedia.org/wiki/Fowler%27s_Modern_English_Usage)?) As a guide to American English usage it is reportedly well-respected, so I was pleased to discover that Strunk's [1918 edition](http://www.bartleby.com/141/) is available online.
 
-I did not take me long to find something to disagree with. I have reproduced the following from [http://www.bartleby.com/141/strunk.html#3](http://www.bartleby.com/141/strunk.html#3):
+I did not take me long to find something to disagree with.[^1] I have reproduced the following from [http://www.bartleby.com/141/strunk.html#3](http://www.bartleby.com/141/strunk.html#3):
 
 > If a parenthetic expression is preceded by a conjunction, place the first comma before the conjunction, not after it.
 > He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.
@@ -39,3 +39,5 @@ In sentence 3 I have ignored Strunk's last instruction in his rule #3. Yet my me
 - And, as demonstrated here, the rule makes no sense if one's sentence begins with a conjunction!
 
 You should not rigidly stick to Strunk's style in this instance, but decide how your sentence should be emphasised and punctuate accordingly.
+
+[^1]: *It* did not take me long. A post criticising a style guide, with a howler in its first sentence. Strunk has the last laugh. (Footnote added Sep 2026.)
