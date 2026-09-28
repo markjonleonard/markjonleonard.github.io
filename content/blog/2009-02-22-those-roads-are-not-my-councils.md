@@ -9,7 +9,7 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2009/02/those-roads-are-not-my-councils.html"
 +++
 
-On the [10th of February](http://weakspeak.blogspot.com/2009/02/birminghams-lost-apostrophes.html) I joked that Birmingham City Council would remove the apostrophe from signage at the Birmingham Children's Hospital, not realising this was in fact their intention. An incriminating photograph is available on the [Daily Mail](http://www.dailymail.co.uk/debate/article-1133563/KEITH-WATERHOUSE-The-apostrophe-story--goes-on.html?ITO=1490)'s website.
+On the [10th of February](/blog/birminghams-lost-apostrophes/) I joked that Birmingham City Council would remove the apostrophe from signage at the Birmingham Children's Hospital, not realising this was in fact their intention. An incriminating photograph is available on the [Daily Mail](http://www.dailymail.co.uk/debate/article-1133563/KEITH-WATERHOUSE-The-apostrophe-story--goes-on.html?ITO=1490)'s website.
 
 Now presumably a perfectly adequate sign was intentionally removed as part of this insidious plan. Surely such a replacement runs counter to Councillor Mullaney's stated aims of consistency (<small>certainly their [website](http://www.bch.org.uk/) makes use of apostrophes</small>) and avoiding unnecessary cost.
 

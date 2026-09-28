@@ -7,6 +7,7 @@ post's HTML body to Markdown, and downloads any images into static/images/.
     python3 scripts/import_blogger.py
 """
 import json
+import os
 import pathlib
 import re
 import urllib.request
@@ -15,10 +16,12 @@ from html.parser import HTMLParser
 
 FEED = "https://weakspeak.blogspot.com/feeds/posts/default?alt=json&max-results=500"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-OUT = ROOT / "content" / "blog"
+OUT = pathlib.Path(os.environ.get("IMPORT_OUT", ROOT / "content" / "blog"))
 IMAGES = ROOT / "static" / "images" / "weakspeak"
 
 VOID = {"br", "img", "hr"}
+# Stands in for list-item indentation so whitespace cleanup leaves it alone.
+INDENT = "\x02"
 
 
 class Node:
@@ -32,6 +35,12 @@ class TreeBuilder(HTMLParser):
         self.root = self.cur = Node("root")
 
     def handle_starttag(self, tag, attrs):
+        if tag == "li":
+            n = self.cur
+            while n is not self.root and n.tag not in ("ul", "ol", "li"):
+                n = n.parent
+            if n.tag == "li":
+                self.cur = n.parent
         node = Node(tag, attrs, self.cur)
         self.cur.children.append(node)
         if tag not in VOID:
@@ -80,11 +89,13 @@ class Converter:
             return "\n\n" + "\n".join(("> " + l).rstrip() for l in body.split("\n")) + "\n\n"
         if tag in ("ul", "ol"):
             items = [c for c in node.children if isinstance(c, Node) and c.tag == "li"]
-            lines = [
-                (f"{i}. " if tag == "ol" else "- ") + self.children(li).strip().replace("\n", " ")
-                for i, li in enumerate(items, 1)
-            ]
-            return "\n\n" + "\n".join(lines) + "\n\n"
+            lines = []
+            for i, li in enumerate(items, 1):
+                marker = f"{i}. " if tag == "ol" else "- "
+                body = re.sub(r"\n{3,}", "\n\n", self.children(li).strip())
+                lines.append(marker + "\n".join((INDENT * len(marker) + l) if l.strip() else "" for l in body.split("\n")).lstrip(INDENT))
+            loose = any("\n" in l for l in lines)
+            return "\n\n" + ("\n\n" if loose else "\n").join(lines) + "\n\n"
         if tag == "a":
             text = self.children(node)
             href = node.attrs.get("href")
@@ -133,6 +144,9 @@ class Converter:
 
 
 def _link(text, href):
+    internal = re.match(r"^https?://weakspeak\.blogspot\.com/\d{4}/\d{2}/([^/.]+)\.html$", href)
+    if internal:
+        href = f"/blog/{internal.group(1)}/"
     m = re.match(r"^(\s*)(.*?)(\s*)$", text, re.S)
     lead, core, trail = m.groups()
     return f"{lead}[{core}]({href}){trail}"
@@ -149,6 +163,7 @@ def to_markdown(html, slug):
     md = re.sub(r"\n{3,}", "\n\n", md)
     # A lone newline inside a paragraph was a <br />: keep it as a hard break.
     md = re.sub(r"(?<=[^\n>])\n(?=[^\n>])", "  \n", md)
+    md = md.replace(INDENT, " ")
     return md.strip() + "\n"
 
 

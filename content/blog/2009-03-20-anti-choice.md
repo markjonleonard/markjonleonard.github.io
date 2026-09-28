@@ -13,7 +13,9 @@ What do you make of the peculiar phrase ["x is for choice"](http://www.google.co
 
 Initially I assumed this to be an Americanism. It follows a certain elliptical pattern I associate with the US:
 
-> - write [to] me I could [not] care less White is [spoilt] for choice
+> - write [to] me
+> - I could [not] care less
+> - White is [spoilt] for choice
 
 This impression has faded somewhat and now I find it difficult to parse at all. The expression "is for choice" is not defined in any of the books or articles that use it. It doesn't appear to be in common use and therefore isn't found in online dictionaries. I would love to know who coined this and what they were thinking.
 

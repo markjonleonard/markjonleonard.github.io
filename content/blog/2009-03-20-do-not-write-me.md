@@ -9,7 +9,7 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2009/03/do-not-write-me.html"
 +++
 
-I noted the (assumed to be) American expression "write me" in my [previous post](http://weakspeak.blogspot.com/2009/03/anti-choice.html). I find this objectionable, as I believe many native English speakers do. Fowler condemns this usage, but Burchfield notes that "this construction was formerly standard in British English ('frequent from circa 1790' says the OED), but it is now in restricted use..."
+I noted the (assumed to be) American expression "write me" in my [previous post](/blog/anti-choice/). I find this objectionable, as I believe many native English speakers do. Fowler condemns this usage, but Burchfield notes that "this construction was formerly standard in British English ('frequent from circa 1790' says the OED), but it is now in restricted use..."
 
 My grievance is expressed in the publication [The Queen's English; stray notes on speaking and spelling (3rd Edition)](http://www.archive.org/details/queensenglishstr00alfouoft), published in 1870 and written by [Henry Alford](http://www.archive.org/search.php?query=creator%3A%22Alford%2C%20Henry%2C%201810-1871%22) (Dean of Canterbury). I have reproduced the text in full, as it is now out of copyright.
 
