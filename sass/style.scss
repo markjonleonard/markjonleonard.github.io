@@ -200,6 +200,19 @@ h3 { font-size: 1.1rem; margin: 2rem 0 0.5rem; }
   hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5em 0; }
 }
 
+.prose .footnote-reference a { text-decoration: none; }
+
+.prose .footnote-definition {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.9em;
+
+  .footnote-definition-label { margin-right: 0.35em; font-family: var(--sans); font-size: 0.8em; vertical-align: super; }
+  p { display: inline; }
+}
+
 .archive-note {
   margin-top: 2.5rem;
   color: var(--muted);

@@ -21,4 +21,6 @@ This impression has faded somewhat and now I find it difficult to parse at all. 
 
 Googling did lead me to an amusing [rant](https://web.archive.org/web/20090713230148/http://www.chesscentral.com/Chess_Writing_Style_a/205.htm#:~:text=One%20second%20you're%20replaying,Black%20is%20for%20predestination) written by [Steve Lopez](http://www.chessbase.com/newsdetail.asp?newsid=96).
 
-> One second you're replaying a chess game, the next second you're reading a philisophical debate. Are we to infer that if White is for choice, then Black is for predestination?
+> One second you're replaying a chess game, the next second you're reading a philisophical[^1] debate. Are we to infer that if White is for choice, then Black is for predestination?
+
+[^1]: *Sic*, but not Lopez's *sic*. He spelled it correctly; the typo crept in when I copied it out in 2009. On a blog about lazy writing, no less. (Footnote added Sep 2026.)
