@@ -36,7 +36,7 @@ I want to comment on "the best" of some BBC website users' [feedback](http://new
 
 9. Different from, different to, different strokes. I don't like **different than** but I will suffer it in silence.
 
-10. **Open-fired** rather than **opened fire**?. I'm not convinced by that hyphen.
+10. **Open-fired** rather than **opened fire**? I'm not convinced by that hyphen.
 
 11. Some people are ~~practically~~ **literally** illiterate.
 
