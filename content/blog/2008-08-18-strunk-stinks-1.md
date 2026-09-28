@@ -22,7 +22,7 @@ Using the example given above, the sentence (shorn of its superfluous clause) re
 
 > He saw us coming and greeted us with a smile.
 
-The word "and" serves as the conjunction. Clearly it is part of the main sentence, and without it the statement would be rendered more difficult to comprehend.
+The word "and" serves as the conjunction. Clearly it is part of the main sentence, and without it the statement would be rendered more difficult to comprehend.[^2]
 
 Here I offer my own example sentence (somewhat contrived but with the virtue of brevity) using various forms of punctuation.
 
@@ -41,3 +41,5 @@ In sentence 3 I have ignored Strunk's last instruction in his rule #3. Yet my me
 You should not rigidly stick to Strunk's style in this instance, but decide how your sentence should be emphasised and punctuate accordingly.
 
 [^1]: *It* did not take me long. A post criticising a style guide, with a howler in its first sentence. Strunk has the last laugh. (Footnote added Sep 2026.)
+
+[^2]: I wasn't alone. In 2011, in a [WordReference forum thread](https://forum.wordreference.com/threads/comma-before-and-after-and-conjunction-he-saw-us-and-unaware.2089353/) about this very example, a user called Cagey made the same argument with the same test: drop the parenthetic phrase and "He saw us coming and greeted us with a smile" still stands, so the comma belongs after *and*, not before it. Another user agreed. (Footnote added Sep 2026.)
