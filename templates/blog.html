@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }} · {{ config.title }}{% endblock %}
+{% block content %}
+<h1>{{ section.title }}</h1>
+{% for page in section.pages %}
+  {% if loop.first or section.pages[loop.index0 - 1].year != page.year %}
+    {% if not loop.first %}</ul></section>{% endif %}
+    <section class="year">
+    <h2 class="section-heading">{{ page.year }}</h2>
+    <ul class="post-list">
+  {% endif %}
+  {{ <post_row page={page} /> }}
+  {% if loop.last %}</ul></section>{% endif %}
+{% endfor %}
+{% endblock %}

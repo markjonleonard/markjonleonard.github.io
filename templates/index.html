@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="intro prose">
+  {{ section.content | safe }}
+</section>
+{% set blog = get_section(path="blog/_index.md") %}
+<section>
+  <h2 class="section-heading">Recent writing</h2>
+  <ul class="post-list">
+    {% for page in blog.pages[:5] %}{{ <post_row page={page} /> }}{% endfor %}
+  </ul>
+  <p><a class="more" href="{{ blog.permalink }}">All {{ blog.pages | length }} posts →</a></p>
+</section>
+{% endblock %}

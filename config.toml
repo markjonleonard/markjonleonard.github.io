@@ -1,0 +1,29 @@
+base_url = "https://markjonleonard.github.io"
+title = "Mark Leonard"
+description = "Software developer and chess player in Wiltshire. Occasionally grumbles about the English language."
+default_language = "en"
+
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+taxonomies = [
+  { name = "tags", feed = true },
+]
+
+[markdown]
+smart_punctuation = false
+external_links_target_blank = false
+
+[markdown.highlighting]
+theme = "github-dark"
+
+[extra]
+author = "Mark Leonard"
+github = "https://github.com/markjonleonard"
+nav = [
+  { name = "Blog", path = "/blog/" },
+  { name = "Projects", path = "/projects/" },
+  { name = "About", path = "/about/" },
+]

@@ -1,0 +1,13 @@
+{% component post_row(page) %}
+<li class="post-row">
+  <a class="post-row-title" href="{{ page.permalink }}">{{ page.title }}</a>
+  <span class="meta">
+    <time datetime="{{ page.date }}">{{ page.date | date(format="%b %-d, %Y") }}</time>
+    · {{ page.reading_time }} min read
+  </span>
+</li>
+{% endcomponent post_row %}
+
+{% component tag_links(tags) %}
+<span class="tags">{% for t in tags %}<a href="{{ get_taxonomy_url(kind='tags', term=t) }}">#{{ t }}</a>{% endfor %}</span>
+{% endcomponent tag_links %}

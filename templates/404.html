@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Not found · {{ config.title }}{% endblock %}
+{% block content %}
+<h1>404</h1>
+<p>There's nothing here. Which is, at least, unambiguous.</p>
+<p><a href="{{ config.base_url }}/">Go home</a> or browse <a href="{{ get_url(path='blog/') }}">the blog</a>.</p>
+{% endblock %}
