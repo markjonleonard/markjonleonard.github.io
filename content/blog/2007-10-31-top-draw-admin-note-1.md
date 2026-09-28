@@ -13,4 +13,4 @@ I've never understood the hiring policy for admin staff. I'd love to see the int
 
 > Anyone that hasn’t received their payslip yet, can collect it from the top right **draw** of my desk.
 
-The word in **bold** is my emphasis. Now, [The Guardian](http://books.guardian.co.uk/news/articles/0,,1256719,00.html) identifies this as a member of a "homophone horror" pairing. A lot of these are arguable, depending on your accent. But *loose* and *lose*? What nonsense! No wonder that there is no name attached to this.
+The word in **bold** is my emphasis. Now, [The Guardian](https://www.theguardian.com/books/2004/jul/08/news) identifies this as a member of a "homophone horror" pairing. A lot of these are arguable, depending on your accent. But *loose* and *lose*? What nonsense! No wonder that there is no name attached to this.

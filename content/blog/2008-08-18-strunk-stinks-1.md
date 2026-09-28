@@ -9,14 +9,14 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2008/08/strunk-stinks-1.html"
 +++
 
-I do not own a copy of Strunk and White's [The Elements of Style](http://en.wikipedia.org/wiki/The_Elements_of_Style). (Why should I, when I have [Fowler's](http://en.wikipedia.org/wiki/Fowler%27s_Modern_English_Usage)?) As a guide to American English usage it is reportedly well-respected, so I was pleased to discover that Strunk's [1918 edition](https://web.archive.org/web/20080805032606/http://www.bartleby.com/141/) is available online.
+I do not own a copy of Strunk and White's [The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style). (Why should I, when I have [Fowler's](https://en.wikipedia.org/wiki/Fowler%27s_Modern_English_Usage)?) As a guide to American English usage it is reportedly well-respected, so I was pleased to discover that Strunk's [1918 edition](https://web.archive.org/web/20080805032606/http://www.bartleby.com/141/) is available online.
 
 I did not take me long to find something to disagree with.[^1] I have reproduced the following from [http://www.bartleby.com/141/strunk.html#3](https://web.archive.org/web/20080805120205/http://www.bartleby.com/141/strunk.html#3):
 
 > If a parenthetic expression is preceded by a conjunction, place the first comma before the conjunction, not after it.
 > He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.
 
-So what is a "[parenthetic expression](http://en.wikipedia.org/wiki/Parenthesis_%28rhetoric%29)"? It is a grouping of words inessential to the meaning of a sentence. The group can be placed between parentheses (duh!), commas, or dashes. If a parenthetic expression is deleted, a complete sentence will remain.
+So what is a "[parenthetic expression](https://en.wikipedia.org/wiki/Parenthesis_%28rhetoric%29)"? It is a grouping of words inessential to the meaning of a sentence. The group can be placed between parentheses (duh!), commas, or dashes. If a parenthetic expression is deleted, a complete sentence will remain.
 
 Using the example given above, the sentence (shorn of its superfluous clause) reads:
 

@@ -9,7 +9,7 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2008/09/bbc-magazine-readers.html"
 +++
 
-I want to comment on "the best" of some BBC website users' [feedback](http://news.bbc.co.uk/1/hi/magazine/7595509.stm).
+I want to comment on "the best" of some BBC website users' [feedback](https://news.bbc.co.uk/1/hi/magazine/7595509.stm).
 
 1. Using the word **of** instead of **have**. My 5 year old son does this. I suspect he is confused by the (commonly heard) contraction **'ve**. E.g. "I should've gone". I can't excuse an adult making this mistake.
 
@@ -28,7 +28,7 @@ I want to comment on "the best" of some BBC website users' [feedback](http://new
 
 5. The plural of **CD** is **CDs**. If you're going to use apostrophes, surely it would be **C'D's**?
 
-6. "He gave them to you and I" is [hypercorrection](http://en.wikipedia.org/wiki/Hypercorrection) and the perpetrators should be shot. Just my opinion.
+6. "He gave them to you and I" is [hypercorrection](https://en.wikipedia.org/wiki/Hypercorrection) and the perpetrators should be shot. Just my opinion.
 
 7. Reflexive pronouns: see 6. Or should that be 7?
 

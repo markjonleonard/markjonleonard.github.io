@@ -15,5 +15,5 @@ Another enlightening extract from *The Queen's English* (see [previous post](/bl
 
 1. How disappointing to read the phrase "sent me", which seems inconsistent with entry 442 from the same publication. Although a defensible ellipsis, I don't think it scans very well.  
 2. Note how clumsy the punctuation appears when placed *inside* the quotation marks. The use of italics is tacit admission that the text is not as readable as it might be. Perhaps he should have dispensed with the quoting entirely. Come to think of it, I wouldn't have used quite so many commas.  
-3. I believe the Walker referred to is a Mr John Walker, and [this](http://books.google.co.uk/books?id=55YPAAAAQAAJ&printsec=frontcover) is his dictionary.  
+3. I believe the Walker referred to is a Mr John Walker, and [this](https://books.google.co.uk/books?id=55YPAAAAQAAJ&printsec=frontcover) is his dictionary.  
 4. The word precisian <small>(not a spelling mistake)</small> is used to mean a purist or pedant.

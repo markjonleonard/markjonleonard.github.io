@@ -9,7 +9,7 @@ tags = ["weak-speak"]
 blogger_url = "https://weakspeak.blogspot.com/2009/02/birminghams-lost-apostrophes.html"
 +++
 
-Martin Mullaney, councillor for Moseley and [Kings Heath](http://martinmullaney.blogspot.com/2009/01/kings-heath-or-kings-heath-councils.html) <small>(sic)</small>[^1] Ward, has [blogged](http://martinmullaney.blogspot.com/2009/01/use-of-possessive-apostrophes-in-place.html) that apostrophes in Birmingham's road signs will "not be re-introduced" <small>(sic)</small>. He provides the following "reasons" for this "proposal": consistency, avoiding confusion, cost, and confusion. <small>(Yes, really.)</small>
+Martin Mullaney, councillor for Moseley and [Kings Heath](https://martinmullaney.blogspot.com/2009/01/kings-heath-or-kings-heath-councils.html) <small>(sic)</small>[^1] Ward, has [blogged](https://martinmullaney.blogspot.com/2009/01/use-of-possessive-apostrophes-in-place.html) that apostrophes in Birmingham's road signs will "not be re-introduced" <small>(sic)</small>. He provides the following "reasons" for this "proposal": consistency, avoiding confusion, cost, and confusion. <small>(Yes, really.)</small>
 
 I couldn't have imagined how the inclusion of an apostrophe might lead to confusion, but clearly Mr Mullaney has investigated the matter thoroughly:
 
@@ -21,7 +21,7 @@ With regards to the cost implications, there are "probably thousands of roads" t
 
 Can you imagine the man-hours involved in dealing with these issues on a case-by-case basis? The next thing you know we'll have to implement some kind of repository to store the names of all these roads and places for future reference. And don't get me started on the implications of employing people who actually know how to read.
 
-The national media has picked up on this story and, as one might have predicted, sparked some interesting and lively debate online. Read this insightful comment from a reader of [The Register](http://www.theregister.co.uk/):
+The national media has picked up on this story and, as one might have predicted, sparked some interesting and lively debate online. Read this insightful comment from a reader of [The Register](https://www.theregister.com/):
 
 > People actually care about this? Actual, living, breathing members of society? Not fictitious people made up by the Daily Fail? This is what is wrong with this country.
 
