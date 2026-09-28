@@ -13,4 +13,6 @@ My son's teachers (there are two, both working part time) sent a note containing
 
 "Will you please sign the home/school record book to confirm that reading practise has taken place."
 
-Over-reliance on the spell-checker I presume.
+Over-reliance on the spell-checker I presume.[^1]
+
+[^1]: For readers outside Britain: in British English *practice* is the noun and *practise* the verb, so the teachers needed "reading practice". American English uses *practice* for both, so an American spell-checker would, for once, have got it right. (Footnote added Sep 2026.)
