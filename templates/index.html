@@ -5,7 +5,8 @@
 </section>
 {% set blog = get_section(path="blog/_index.md") %}
 <section>
-  <h2 class="section-heading">Recent writing</h2>
+  {# Until something new is published, don't dress the 2009 posts up as recent. #}
+  <h2 class="section-heading">{% if blog.pages[0].extra.blogger_url %}From the Weak Speak archive{% else %}Recent writing{% endif %}</h2>
   <ul class="post-list">
     {% for page in blog.pages[:5] %}{{ <post_row page={page} /> }}{% endfor %}
   </ul>

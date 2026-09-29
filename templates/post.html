@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }} · {{ config.title }}{% endblock %}
-{% block description %}{{ (page.summary or page.content) | striptags | truncate(length=160) }}{% endblock %}
+{% block description %}{{ (page.summary or page.content) | regex_replace(pattern=`<sup class="footnote-reference">.*?</sup>`, rep=``) | striptags | truncate(length=160) }}{% endblock %}
 {% block content %}
 <article>
   <header class="post-header">

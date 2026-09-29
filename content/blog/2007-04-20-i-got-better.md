@@ -1,6 +1,7 @@
 +++
 title = "I got better"
 date = 2007-04-20T01:04:00.000+01:00
+aliases = ["/blog/jeremy-hardy-caused-me-to-laugh-out/"]
 
 [taxonomies]
 tags = ["weak-speak"]
